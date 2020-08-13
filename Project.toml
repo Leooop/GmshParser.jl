@@ -1,0 +1,13 @@
+name = "GmshParser"
+uuid = "6d650a3e-48c3-48b4-904a-b5ccdc7c99ec"
+authors = ["Léo Petit <leo.petit@live.fr> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
